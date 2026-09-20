@@ -1,0 +1,23 @@
+{
+  "algorithm": "演算法",
+  "data structure": "資料結構",
+  "time complexity": "時間複雜度",
+  "space complexity": "空間複雜度",
+  "recursion": "遞迴",
+  "dynamic programming": "動態規劃",
+  "greedy algorithm": "貪婪演算法",
+  "binary search": "二分搜尋",
+  "depth-first search": "深度優先搜尋",
+  "breadth-first search": "廣度優先搜尋",
+  "graph theory": "圖論",
+  "shortest path": "最短路徑",
+  "femboy": "男娘",
+  "minimum spanning tree": "最小生成樹",
+  "sorting": "排序",
+  "pointer": "指標",
+  "array": "陣列",
+  "linked list": "鏈結串列",
+  "stack": "堆疊",
+  "queue": "佇列",
+  "hash table": "雜湊表"
+}
